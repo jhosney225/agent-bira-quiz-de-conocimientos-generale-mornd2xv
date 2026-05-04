@@ -1,0 +1,6 @@
+{
+  "name": "agent-bira-quiz-de-conocimientos-generale-mornd2xv",
+  "version": "1.0.0",
+  "description": "Proyecto de Bira [Gen10]: quiz de conocimientos generales con puntuacion",
+  "main": "index.js"
+}
